@@ -1,1 +1,1 @@
-# Paralela
+# Parallel computing
